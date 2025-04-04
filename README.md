@@ -14,6 +14,7 @@ Installation
 
     Exécutez le script d'installation des dépendances :
     chmod +x install_dependencies.sh
+    chmod +x download.sh
     sudo ./install_dependencies.sh
 
 Utilisation
@@ -24,7 +25,7 @@ Utilisation
     https://www.youtube.com/watch?v=Bw5OxNeTgGk
 
     Lancez le script de téléchargement :
-    node download.js
+    ./download.sh
 
 Les fichiers MP3 seront enregistrés dans le dossier downloads/.
 
